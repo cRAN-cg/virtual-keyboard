@@ -1,0 +1,23 @@
+.keyboard__row__key{
+    padding: 3px;
+    border: black solid 1px;
+    margin: 1px;
+    cursor: pointer;
+}
+
+#keyboard-div {
+    margin: 5px;
+    text-align: center;
+}
+
+.keyboard__row {
+    margin: 10px;
+}
+
+.key--grey {
+    background: grey;
+}
+
+#output > span{
+    border: dashed grey;
+}
